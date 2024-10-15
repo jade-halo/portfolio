@@ -19,7 +19,7 @@ overflow:hidden;
 position: relative;
 
 h2,h3,h4,h5,h6{
-  font-family:'Karla', sans-serif ;
+  font-family:'NanumSquareBold', NanumSquareLight ;
   font-weight:500;
 }
 `
@@ -142,7 +142,7 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>click here</span>
+                <span>안녕하세요</span>
             </Center>
 
             <Contact target="_blank" href="mailto:codebucks27@gmail.com">
@@ -159,7 +159,7 @@ const Main = () => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                    Say hi..
+                    Contact
                 </motion.h2>
             </Contact>
             <BLOG to="/blog">

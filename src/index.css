@@ -1,6 +1,21 @@
+@font-face {
+  font-family: NanumSquareBold;
+  src: url('./font/NanumSquareBold.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NanumSquareLight;
+  src: url('./font/NanumSquareLight.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+// 나눔스퀘어 폰트 추가
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: NanumSquareBold, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -8,6 +23,6 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: NanumSquareLight, source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
