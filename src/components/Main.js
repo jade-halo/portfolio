@@ -142,10 +142,10 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>안녕하세요</span>
+                <span>무엇을 보고싶으신가요?</span>
             </Center>
 
-            <Contact target="_blank" href="mailto:codebucks27@gmail.com">
+            <Contact target="_blank" href="mailto:ydh99151@gmail.com">
                 <motion.h2
                 initial={{
                     y:-200,
