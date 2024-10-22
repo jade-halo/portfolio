@@ -79,9 +79,17 @@ const Intro = () => {
         >
             <SubBox>
                 <Text>
-                    <h1>Hi,</h1>
-                    <h3>I'm CodeBucks.</h3>
-                    <h6>I design and Code simple yet beautiful websites.</h6>
+                    <h1>최진혁</h1>
+                    <h3>브랜드 마케터</h3>
+                    <br/>
+                    <h5>2011년~2018년</h5>
+                    <h5>중앙대학교</h5>
+                    <h6>- 경영학 학사 / 유통관리연계전공</h6>
+                    <br/>
+                    <h5>2019년 1월~</h5>
+                    <h5>동원F&B 마케팅부문</h5>
+                    <h6>동원참치 ABM('19.1~'23.12) / 리챔 BM('24.1~)</h6>
+                    <h6>밀레니얼보드, 컬쳐디자이너, 사내강사 활동 </h6>
                 </Text>
             </SubBox>
             <SubBox>

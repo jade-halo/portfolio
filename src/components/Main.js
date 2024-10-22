@@ -142,7 +142,10 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>무엇을 보고싶으신가요?</span>
+                <span>
+                "지성과 즐거움이 조화로울때 창의력이 피어난다" 
+                <br/> <br/>
+                알베르트 아인슈타인</span>
             </Center>
 
             <Contact target="_blank" href="mailto:ydh99151@gmail.com">
@@ -175,7 +178,7 @@ const Main = () => {
                 whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Blog
+                 Etc.
                 </motion.h2>
             </BLOG>
             <WORK to="/work" click={+click}>
@@ -191,7 +194,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Work
+                    Works
                 </motion.h2>
             </WORK>
             <BottomBar>
@@ -208,7 +211,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    About.
+                    About
                 </motion.h2>
             </ABOUT>
             <SKILLS to="/skills">
@@ -224,7 +227,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    My Skills.
+                    Skills
                 </motion.h2>
             </SKILLS>
 

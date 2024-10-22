@@ -3,8 +3,8 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
+        name:"참치? 식상하고 올드해",
+        description:"ㅇㅇㅇ",
         tags:["react","gsap","styledComponents"],
         
         demo:"https://agency-website-eta.vercel.app/",

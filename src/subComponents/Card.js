@@ -5,7 +5,6 @@ import styled from 'styled-components';
 import { Github } from '../components/AllSvgs';
 
 
-
 const Box = styled(motion.li)`
 width: 16rem;
 height: 40vh;
@@ -113,12 +112,9 @@ const Card = (props) => {
                 }
             </Tags>
             <Footer>
-                <Link href={demo} target="_blank">
-                    Visit
+                <Link href={demo} target="_blank" style={{ fontSize: 'smaller' }}>
+                    더 알아보기
                 </Link>
-                <Git  href={github}  target="_blank">
-                    <Github width={30} height={30} />
-                </Git>
             </Footer>
         </Box>
     )

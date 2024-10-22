@@ -72,11 +72,13 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        안녕하세요. 브랜드 마케터 최진혁입니다.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+온라인 커머스에 관심을 가지고 조그맣게 사업을 하다가 브랜딩 업무를 맡게되면서 찾을 수 있었습니다. 제 '인생업무'를 말이죠. 보통 평생 간직하고 싶은 사진을 찍으면 '인생사진'이라고 하잖아요. 그렇게 브랜드를 살아숨쉬게 만드는 브랜딩은 제가 평생 하고싶은 업무가 되었고 우리들의 생각과 행동에 끼치는 영햘력을 매일 실감하고 있습니다.
 <br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+그리고 2007년 제가 중학생 때 출시된 iPhone은 많은 사람들에게 엄청난 충격을 줬다고하는데 어렸을때라 그런지 잘 와닿진 않았어요. 하지만 15년이 지난 2023년 ChatGPT가 등장했을때 저는 알 수 있었습니다. 기술이 주는 엄청난 충격이 무엇인지를요. 그래서 AI에 관심을 가지기 시작했고 보고계신 이 페이지도 다양한 AI tool을 사용해서 만든 결과물입니다.
+<br/> <br/>
+마지막으로 왼쪽 상단에 보이시는 Musuc 옆의 바를 클릭하시면 노래가 나올꺼에요. 그럼 신나는 노래와 함께 제 포트폴리오 잘 봐주시면 감사드리겠습니다. 
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
