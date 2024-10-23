@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import React from "react";
 // import { NavLink } from 'react-router-dom'
 import styled from "styled-components";
-import { Facebook, Github, Twitter, YouTube } from "../components/AllSvgs";
+import { YouTube } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
 
 const Icons = styled.div`
@@ -63,7 +63,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://youtube.com"}
+          href={"https://youtu.be/-s6pLyHn8zM?si=dDmTIZR_qpEKqe3V"}
         >
           <YouTube
             width={25}

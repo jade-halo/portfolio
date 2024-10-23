@@ -50,7 +50,7 @@ display: flex;
 `
 
 const Text = styled.div`
-font-size: calc(1em + 1.5vw);
+font-size: calc(0.8em + 1vw);
 color: ${props => props.theme.body};
 padding: 2rem;
 cursor: pointer;
@@ -61,7 +61,7 @@ justify-content: space-evenly;
 
 &>*:last-child{
     color: ${props => `rgba(${props.theme.bodyRgba},0.6)` };
-    font-size: calc(0.5rem + 1.5vw);
+    font-size: calc(0.5rem + 0.5vw);
     font-weight:300;
 
 }
@@ -88,8 +88,9 @@ const Intro = () => {
                     <br/>
                     <h5>2019년 1월~</h5>
                     <h5>동원F&B 마케팅부문</h5>
-                    <h6>동원참치 ABM('19.1~'23.12) / 리챔 BM('24.1~)</h6>
-                    <h6>밀레니얼보드, 컬쳐디자이너, 사내강사 활동 </h6>
+                    <h6>- 동원참치 ABM('19.1~'23.12)</h6> 
+                    <h6>- 리챔 BM('24.1~)</h6>
+                    <h6>밀레니얼 보드, 컬쳐 디자이너, ChatGPT 사내강사, 그룹 이미지 개선 TFT</h6>
                 </Text>
             </SubBox>
             <SubBox>

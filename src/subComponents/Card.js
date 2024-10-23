@@ -6,17 +6,17 @@ import { Github } from '../components/AllSvgs';
 
 
 const Box = styled(motion.li)`
-width: 16rem;
+width: 20rem;
 height: 40vh;
 background-color: ${props => props.theme.text};
 color:${props => props.theme.body};
-padding: 1.5rem 2rem;
-margin-right: 8rem;
+padding: 2rem 2rem;
+margin-right: 10rem;
 border-radius: 0 50px 0 50px;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
-border: 1px solid ${props => props.theme.body};
+border: 10px solid ${props => props.theme.body};
 transition: all 0.2s ease;
 
 &:hover{
@@ -46,7 +46,7 @@ border-top: 2px solid ${props =>props.theme.text};
 `
 const Tag = styled.span`
 margin-right:1rem;
-font-size:calc(0.8em + 0.3vw);
+font-size:calc(0.7em + 0.3vw);
 `
 
 const Footer = styled.footer`

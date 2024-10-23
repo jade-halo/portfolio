@@ -142,10 +142,7 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>
-                "지성과 즐거움이 조화로울때 창의력이 피어난다" 
-                <br/> <br/>
-                알베르트 아인슈타인</span>
+                <span>"지성과 즐거움의 조화가 창의력을 피어나게한다" - 알베르트 아인슈타인</span>
             </Center>
 
             <Contact target="_blank" href="mailto:ydh99151@gmail.com">
