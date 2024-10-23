@@ -25,14 +25,14 @@ width: 100%;
 height:auto;
 
 position: relative;
-padding-bottom: 5rem;
+padding-bottom: 25rem;
 `
 
 const Center = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-padding-top: 10rem;
+padding-top: 15rem;
 `
 
 const Grid = styled.div`
@@ -91,7 +91,7 @@ const BlogPage = () => {
 </Grid>
 
 </Center>
-<BigTitle text="BLOG" top="5rem" left="5rem" />
+<BigTitle text="AI" top="5rem" left="5rem" />
             </Container>
         </MainContainer>
     )
