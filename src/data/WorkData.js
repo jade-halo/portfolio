@@ -6,7 +6,7 @@ export const Work = [
         name:"나보다 나이가 많은 브랜드를 나보다 젊게 만들다",
         description:"바다에서 온 건강, 바로먹는 영양....출시된지 40년이 넘는 동원참치는 '건강'만 했죠. 충성고객인 4050세대도 중요하지만 미래의 소비주체인 2030세대들에게 잊혀지 않기 위해 올드한 이미지를 탈피하고 '젊고 흥미로운 참치'로의 변화를 시도했습니다",
         tags:["동원참치","맛의대참치","펭수","정동원","팀치치","안유진","미니언즈","다랑이","메타버스","LoL","40주년"],
-        
+
         demo:"https://agency-website-eta.vercel.app/",
         github:"https://github.com/codebucks27/Agency-website"
     },

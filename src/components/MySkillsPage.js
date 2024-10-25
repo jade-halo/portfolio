@@ -102,29 +102,23 @@ const MySkillsPage = () => {
 <strong>I DO</strong>
 <ul>
     <li>
-        브랜드 운영관리
+        브랜드 운영관리 및 전략수립
     </li>
     <li>
-        브랜드 전략수립
+        ATL & BTL 브랜드 캠페인 운영
     </li>
     <li>
-        프로덕트 개발
+        프로덕트 기획, 개발, 런칭
     </li>
     <li>
-        광고캠페인 운영
-    </li>
-    <li>
-        소셜미디어 마케팅
-    </li>
-    <li>
-        제휴 프로모션
+        소셜미디어, 프로모션 운영
     </li>
 </ul>
 </Description>
 <Description>
 <strong>I AM</strong>
 <ul>
-       #내꺼라는_주인의식 #하고보는_실행력 #번뜩이는_아이디어 #데이터와_마켓센싱 #
+       #내꺼라는_주인의식 #하고보는_실행력 #번뜩이는_아이디어 #데이터와_마켓센싱
 </ul>
 </Description>
 
