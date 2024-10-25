@@ -25,7 +25,7 @@ width: 100%;
 height:auto;
 
 position: relative;
-padding-bottom: 22rem;
+padding-bottom: 15rem;
 `
 
 const Center = styled.div`

@@ -63,8 +63,8 @@ margin-right: 1rem;
 
 const Description = styled.div`
 color: ${props => props.theme.text};
-font-size: calc(0.7em + 0.5vw);
-padding: 0.5rem 0;
+font-size: calc(0.6em + 0.5vw);
+padding: 1rem 0;
 
 
 ${Main}:hover &{
@@ -78,7 +78,7 @@ strong{
     text-transform: uppercase;
 }
 ul,p{
-    margin-left: 2rem;
+    margin-left: 1rem;
 }
 `
 
@@ -93,10 +93,10 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={100} /> Brand Marketer
+    <Design width={40} height={50} /> Brand Marketer
 </Title>
 <Description>
-브랜딩의 시작은 브랜드의 '사람들의 머릿속에서 기억될 이름'과 브랜드가 '왜 존재해야하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 미션, 컨셉, 전략 등을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 Top of Mind가 되어 기업의 영리적인 목적 달성에 기여하게 만들어야된다고 생각합니다.
+<br/>브랜딩의 시작은 브랜드의 '사람들의 머릿속에서 기억될 이름'과 브랜드가 '왜 존재해야하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 미션, 컨셉, 전략 등을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 Top of Mind가 되어 기업의 영리적인 목적 달성에 기여하게 만들어야된다고 생각합니다.
 </Description>
 <Description>
 <strong>I DO</strong>
@@ -125,10 +125,10 @@ const MySkillsPage = () => {
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={100} /> AI Artist
+    <Develope width={40} height={50} /> AI Artist
 </Title>
 <Description>
-AI가 기존의 업무 방식을 송두리째 바꿀 것이라고 믿습니다. 그리고 AI가 사람을 대체하는 것이 아닌 AI를 잘 활용하는 사람이 그러지 못한 사람을 대체할 것이라고 생각합니다. <br/>비전공자에 개발자도 아니지만 누군가로부터 대체되는게 아닌 누군가를 대체하기 위해서 AI를 적극적으로 활용하고 있습니다. 
+<br/>AI가 기존의 업무 방식을 송두리째 바꿀 것이라고 믿습니다. 그리고 AI가 사람을 대체하는 것이 아닌 AI를 잘 활용하는 사람이 그러지 못한 사람을 대체할 것이라고 생각합니다. <br/>비전공자에 개발자도 아니지만 누군가로부터 대체되는게 아닌 누군가를 대체하기 위해서 AI를 적극적으로 활용하고 있습니다. 
 </Description>
 <Description>
 <strong>Projects</strong>
@@ -159,7 +159,7 @@ ChatGPT & Claude, Photoshop % Illustrator, Runway etc.
 
             </Main>
 
-            <BigTitle text="SKILLS" top="80%" right="30%" />
+            <BigTitle text="Skills" top="80%" right="30%" />
 
         </Box>
 
