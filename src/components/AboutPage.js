@@ -50,7 +50,7 @@ const Main =  styled.div`
   
   position: absolute;
   left: calc(5rem + 5vw);
-  top: 10rem;
+  top: 9rem;
   font-family: 'NanumSquareLight'
   font-style: italic;
 `
