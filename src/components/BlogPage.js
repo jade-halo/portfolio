@@ -25,14 +25,14 @@ width: 100%;
 height:auto;
 
 position: relative;
-padding-bottom: 25rem;
+padding-bottom: 22rem;
 `
 
 const Center = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-padding-top: 15rem;
+padding-top: 10rem;
 `
 
 const Grid = styled.div`

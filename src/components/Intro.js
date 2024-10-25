@@ -13,7 +13,7 @@ transform: translate(-50%, -50%);
 
 
 width: 65vw;
-height:55vh;
+height:65vh;
 display: flex;
 
 
@@ -50,7 +50,7 @@ display: flex;
 `
 
 const Text = styled.div`
-font-size: calc(0.8em + 1vw);
+font-size: calc(0.5em + 1vw);
 color: ${props => props.theme.body};
 padding: 2rem;
 cursor: pointer;

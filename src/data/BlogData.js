@@ -19,14 +19,22 @@ export const Blogs = [
     },
     {
         id:3,
-        name:"AI 프로젝트로 그룹사 라운드 테이블에 소개된 이야기",
-        tags:["ChatGPT","MeetBot","회의문화개선"],
+        name:"주임이 모든 임직원들에게 가르쳐 줄 수 있는 것",
+        tags:["생성형AI", "ChatGPT", "사내강사"],
+        date:"2024년 3월",
+        imgSrc:"https://img.youtube.com/vi/9wOlTM0vLug/hqdefault.jpg",
+        link:"https://www.youtube.com/playlist?list=PLdF8FeJCJHbI68b5fQnvBzJ8RPz7zqrlp"
+    },
+    {
+        id:4,
+        name:"AI 프로젝트로 그룹CEO 라운드 테이블에 소개된 이야기",
+        tags:["GPTs","MeetBot","회의문화개선"],
         date:"2024년 9월",
         imgSrc:"https://img.youtube.com/vi/jXJ2CPMwZAM/hqdefault.jpg",
         link:"https://youtu.be/jXJ2CPMwZAM"
     },
     {
-        id:4,
+        id:5,
         name:"예산이 없다구요? 그럼 제가 직접 광고만들게요",
         tags:["AI영상","리챔","브랜드필름"],
         date:"2024년 10월",
