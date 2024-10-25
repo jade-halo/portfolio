@@ -31,8 +31,8 @@ font-size: calc(1em + 0.5vw);
 `
 
 const Description = styled.h2`
-font-size: calc(0.8em + 0.3vw);
-font-family: 'Karla',sans-serif;
+font-size: calc(0.7em + 0.3vw);
+font-family: 'NanumSquareLight';
 font-weight: 500;
 `
 const Tags = styled.div`
@@ -46,7 +46,7 @@ border-top: 2px solid ${props =>props.theme.text};
 `
 const Tag = styled.span`
 margin-right:1rem;
-font-size:calc(0.7em + 0.3vw);
+font-size:calc(0.6em + 0.3vw);
 `
 
 const Footer = styled.footer`
