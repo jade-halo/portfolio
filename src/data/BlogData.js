@@ -4,33 +4,33 @@ export const Blogs = [
     {
         id:1,
         name:"국내 첫 프롬프트 경진대회에 비개발자가 참가한 이유",
-        tags:["뤼튼","프롬프톤", "마이크로소프트"],
-        date:"2023년 5월 27일",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
-        link:"https://www.youtube.com/watch?v=W91uEStiH0s"
+        tags:["뤼튼","프롬프톤", "프롬프트엔지니어링"],
+        date:"2023년 5월",
+        imgSrc:"https://static.onoffmix.com/afv2/thumbnail/2023/05/19/27b8173ea518b1d9ce69c6519b7061eb.png",
+        link:"https://wrtn.io/en/2023/12/19/%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%EB%A4%BC%ED%8A%BC-%ED%94%84%EB%A1%AC%ED%94%84%ED%86%A4-%EC%83%9D%EC%84%B1-ai-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/"
     },
     {
         id:2,
         name:"생성형 AI로 2024년 목표를 다시 되새기다",
-        tags:["#사내공모전 #AI이미지 #리챔"],
-        date:"5 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+        tags:["사내공모전", "AI이미지", "최우수상"],
+        date:"2024년 3월",
+        imgSrc:"https://img.youtube.com/vi/PVqzOuqfYFg/hqdefault.jpg",
         link:"https://www.youtube.com/watch?v=PVqzOuqfYFg"
     },
     {
         id:3,
         name:"AI 프로젝트로 그룹사 라운드 테이블에 소개된 이야기",
         tags:["ChatGPT","MeetBot","회의문화개선"],
-        date:"6 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625552344293%2Fegwis0UIX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://youtu.be/y4BcyWLy7V8"
+        date:"2024년 9월",
+        imgSrc:"https://img.youtube.com/vi/jXJ2CPMwZAM/hqdefault.jpg",
+        link:"https://youtu.be/jXJ2CPMwZAM"
     },
     {
         id:4,
         name:"예산이 없다구요? 그럼 제가 직접 광고만들게요",
-        tags:["AI","Runway","브랜드 필름"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
+        tags:["AI영상","리챔","브랜드필름"],
+        date:"2024년 10월",
+        imgSrc:"https://img.youtube.com/vi/pd_W4B_ROms/hqdefault.jpg",
         link:"https://youtu.be/pd_W4B_ROms"
     },
   

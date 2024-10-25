@@ -6,12 +6,12 @@ import { Github } from '../components/AllSvgs';
 
 
 const Box = styled(motion.li)`
-width: 20rem;
+width: 25rem;
 height: 50vh;
 background-color: ${props => props.theme.text};
 color:${props => props.theme.body};
 padding: 2rem 2rem;
-margin-right: 10rem;
+margin-right: 15rem;
 border-radius: 0 50px 0 50px;
 display: flex;
 flex-direction: column;

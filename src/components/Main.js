@@ -141,8 +141,10 @@ const Main = () => {
             <SocialIcons theme={click ? 'dark' :'light'} />
            
             <Center click={click}>
-                <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>"지성과 즐거움의 조화가 창의력을 피어나게한다" - 알베르트 아인슈타인</span>
+                <YinYang onClick={() => handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
+                <span onClick={() => handleClick()} style={{ cursor: 'pointer' }}>
+                    <h1>Click</h1> <br/> "지성과 즐거움의 조화가 창의력을 피어나게한다" - 알베르트 아인슈타인
+                </span>
             </Center>
 
             <Contact target="_blank" href="mailto:ydh99151@gmail.com">
@@ -175,7 +177,7 @@ const Main = () => {
                 whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                 Etc.
+                 AI
                 </motion.h2>
             </BLOG>
             <WORK to="/work" click={+click}>
