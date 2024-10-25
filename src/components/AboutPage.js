@@ -45,7 +45,7 @@ const Main =  styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: calc(0.5rem + 0.8vw);
+  font-size: calc(0.7rem + 0.5vw);
  backdrop-filter: blur(4px);
   
   position: absolute;
@@ -78,7 +78,7 @@ const AboutPage = () => {
 <br/> <br/>
 그리고 2007년 제가 중학생 때 출시된 iPhone은 많은 사람들에게 엄청난 충격을 줬다고하는데 어렸을때라 그런지 잘 와닿진 않았어요. 하지만 15년이 지난 2023년 ChatGPT가 등장했을때 저는 알 수 있었습니다. 기술이 주는 엄청난 충격이 무엇인지를요. 그래서 AI에 관심을 가지기 시작했고 보고계신 이 페이지도 다양한 AI tool을 사용해서 만든 결과물입니다.
 <br/> <br/>
-마지막으로 왼쪽 상단에 보이시는 music 옆의 사운드바를 클릭하시면 제가 좋아하는 노래가 나올꺼에요. 그럼 신나는 노래와 함께 제 포트폴리오 잘 봐주시면 감사드리겠습니다. 
+마지막으로 왼쪽 상단에 보이시는 music 옆의 사운드바를 클릭하시면 노래가 나올거에요. 신나는 노래와 함께 제 포트폴리오 잘 봐주시면 감사드리겠습니다. 
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
