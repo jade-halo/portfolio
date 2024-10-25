@@ -51,7 +51,7 @@ const Main =  styled.div`
   position: absolute;
   left: calc(5rem + 5vw);
   top: 10rem;
-  font-family: 'Ubuntu Mono', monospace;
+  font-family: 'NanumSquareLight'
   font-style: italic;
 `
 

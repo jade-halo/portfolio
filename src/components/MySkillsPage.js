@@ -33,7 +33,7 @@ z-index:3;
 line-height: 1.5;
 cursor: pointer;
 
-font-family: 'Ubuntu Mono',monospace;
+font-family: 'NanumSquareLight'
 display: flex;
 flex-direction: column;
 justify-content: space-between;
