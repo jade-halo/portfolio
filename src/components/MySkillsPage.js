@@ -108,10 +108,10 @@ const MySkillsPage = () => {
         ATL & BTL 브랜드 캠페인 운영
     </li>
     <li>
-        프로덕트 기획, 개발, 런칭
+        프로덕트 기획 및 관리
     </li>
     <li>
-        소셜미디어, 프로모션 운영
+        소셜미디어 운영, 제휴 마케팅
     </li>
 </ul>
 </Description>
