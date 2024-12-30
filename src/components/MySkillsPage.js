@@ -96,7 +96,7 @@ const MySkillsPage = () => {
     <Design width={40} height={50} /> Brand Marketer
 </Title>
 <Description>
-<br/>브랜딩의 시작은 브랜드의 '사람들의 머릿속에서 기억될 이름'과 브랜드가 '왜 존재해야하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 미션, 컨셉, 전략 등을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 Top of Mind가 되어 기업의 영리적인 목적 달성에 기여하게 만들어야된다고 생각합니다.
+<br/>브랜딩의 시작은 브랜드의 '사람들의 머릿속에서 기억될 이름'과 브랜드가 '왜 존재해야하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 미션, 컨셉, 전략 등을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 Top of Mind가 되어 기업의 영리적인 목적 달성에 ㅇ기여하게 만들어야된다고 생각합니다.
 </Description>
 <Description>
 <strong>I DO</strong>
@@ -118,7 +118,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>I AM</strong>
 <ul>
-       #내꺼라는_주인의식 #하고보는_실행력 #번뜩이는_아이디어 #데이터와_마켓센싱
+       #내꺼라는_주인의식 #하고보는_도전정신 #번뜩이는_아이디어 #데이터와_인사이트
 </ul>
 </Description>
 
@@ -153,7 +153,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>Tools</strong>
 <ul>
-ChatGPT & Claude, Photoshop % Illustrator, Runway etc.
+ChatGPT, Photoshop & Illustrator, Runway, etc.
 </ul>
 </Description>
 
