@@ -1,13 +1,13 @@
 @font-face {
-  font-family: NanumSquareBold;
-  src: url('./font/NanumSquareBold.ttf') format('ttf');
+  font-family: GcbBold;
+  src: url('./font/GcbBold.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: NanumSquareLight;
-  src: url('./font/NanumSquareLight.ttf') format('ttf');
+  font-family: GcbRegular;
+  src: url('./font/GcbRegular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 
 body {
   margin: 0;
-  font-family: NanumSquareBold, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: GcbRegular, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -23,6 +23,6 @@ body {
 }
 
 code {
-  font-family: NanumSquareLight, source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
