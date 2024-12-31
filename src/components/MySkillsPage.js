@@ -98,7 +98,7 @@ const MySkillsPage = () => {
     <Design width={40} height={50} /> Brand Marketer
 </Title>
 <Description>
-<br/>브랜딩의 시작은 '사람들의 머릿속에서 기억될 이름'과 '왜 존재해야 하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 전략, 제품, 광고 등 다양한 마케팅을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 해당 카테고리의 Top of Mind로 만드는 것이 브랜딩이라고 생각합니다.
+<br/>브랜딩의 시작은 '사람들의 머릿속에서 기억될 이름'과 '왜 존재해야 하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 전략, 제품, 광고 등 다양한 마케팅을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 해당 카테고리의 Top of Mind로 만드는 것이 브랜딩이라고 생각합니다. <br/> 이러한 생각을 가지고 저는 다음과 같은 업무를 수행할 수 있습니다.
 </Description>
 <Description>
 <strong>I DO</strong>
@@ -127,10 +127,10 @@ const MySkillsPage = () => {
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={50} /> AI Artist
+    <Develope width={40} height={50} /> AI Associate
 </Title>
 <Description>
-<br/>AI가 기존의 업무 방식을 송두리째 바꿀 것이라고 믿습니다. 그리고 AI가 사람을 대체하는 것이 아닌 AI를 잘 활용하는 사람이 그러지 못한 사람을 대체할 것이라고 생각합니다. <br/>비전공자에 개발자도 아니지만 누군가로부터 대체되는게 아닌 누군가를 대체하기 위해서 AI를 적극적으로 활용하고 있습니다. 
+<br/>AI가 기존의 업무 방식을 송두리째 바꿀 것이라고 믿습니다. 그리고 AI가 사람을 대체하는 것이 아닌 AI를 잘 활용하는 사람이 그러지 못한 사람을 대체할 것이라고 생각합니다. <br/>비전공자에 개발자도 아니지만 누군가로부터 대체되는게 아닌 누군가를 대체하기 위해서 AI를 적극적으로 활용하고 있습니다. <br/> 이러한 생각을 가지고 저는 다음과 같은 프로젝트를 진행했습니다.
 </Description>
 <Description>
 <strong>Projects</strong>
@@ -146,7 +146,7 @@ const MySkillsPage = () => {
         사내 AI공모전 입상
     </li>
     <li>
-        AI활용 컨텐츠 제작
+        생성형AI 컨텐츠 제작
     </li>
 
 </ul>
@@ -155,7 +155,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>Tools</strong>
 <ul>
-ChatGPT, Photoshop & Illustrator, Runway, etc.
+Prompt Engineering, Generative AI, Photoshop & Illustrator, etc.
 </ul>
 </Description>
 
