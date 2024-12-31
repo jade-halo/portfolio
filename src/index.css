@@ -1,13 +1,13 @@
 @font-face {
   font-family: GcbBold;
-  src: url('./font/GcbBold.ttf') format('ttf');
+  src: url('./font/GcbBold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: GcbRegular;
-  src: url('./font/GcbRegular.ttf') format('ttf');
+  src: url('./font/GcbRegular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,9 +15,9 @@
 
 body {
   margin: 0;
-  font-family: GcbRegular, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: GcbRegular, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    sans-serif ;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -19,6 +19,7 @@ const Box = styled.div`
   position: relative;
   display: flex;
   align-items: center;
+  
 `;
 
 const Main = styled(motion.ul)`
@@ -27,8 +28,9 @@ const Main = styled(motion.ul)`
   left: calc(10rem + 15vw);
   height: 40vh;
   display: flex;
-
   color: white;
+  
+  
 `;
 const Rotate = styled.span`
   display: block;
@@ -38,6 +40,7 @@ const Rotate = styled.span`
   width: 80px;
   height: 80px;
   z-index: 1;
+  
 `;
 
 // Framer-motion Configuration

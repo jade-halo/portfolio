@@ -28,7 +28,7 @@ const Box = styled(motion.a)`
 const Image = styled.div`
   background-image: ${(props) => `url(${props.img})`};
   width: 100%;
-  height: 60%;
+  height: 100%;
   background-size: cover;
   border: 1px solid transparent;
   background-position: center center;
@@ -44,7 +44,7 @@ const Title = styled.h3`
   font-family: "Karla", sans-serif;
   font-weight: 700;
   border-bottom: 1px solid ${(props) => props.theme.text};
-
+  font-family: 'GcbBold', sans-serif;
   ${Box}:hover & {
     border-bottom: 1px solid ${(props) => props.theme.body};
   }

@@ -62,8 +62,8 @@ justify-content: space-evenly;
 &>*:last-child{
     color: ${props => `rgba(${props.theme.bodyRgba},0.6)` };
     font-size: calc(0.5rem + 0.5vw);
-    font-weight:300;
-
+    font-weight: 300;
+    font-family: 'GcbRegular';
 }
 
 
@@ -90,7 +90,7 @@ const Intro = () => {
                     <h5>동원F&B 마케팅부문</h5>
                     <h6>- 동원참치 ABM('19.1~'23.12)</h6> 
                     <h6>- 리챔 BM('24.1~)</h6>
-                    <h6>신입연수 1등 수료, 밀레니얼 보드, 조직문화 개선 TF, ChatGPT 사내강사, 마케팅 멘토링, 우수직원상 2회 수상</h6>
+                    <h6> *  기타활동 : 밀레니얼 보드, 조직문화 개선 TF, ChatGPT 사내강사, 마케팅 멘토링, 최우수 직원상 2회 수상</h6>
                 </Text>
             </SubBox>
             <SubBox>

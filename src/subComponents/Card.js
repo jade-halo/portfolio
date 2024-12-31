@@ -28,12 +28,14 @@ border: 1px solid ${props => props.theme.text};
 `
 const Title = styled.h2`
 font-size: calc(1em + 0.5vw);
+font-family: 'GcbBold', sans-serif;
 `
 
 const Description = styled.h2`
 font-size: calc(0.7em + 0.3vw);
 font-family: 'NanumSquareLight';
 font-weight: 500;
+font-family: 'GcbRegular', sans-serif;
 `
 const Tags = styled.div`
 border-top: 2px solid ${props =>props.theme.body};

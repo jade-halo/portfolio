@@ -33,7 +33,7 @@ z-index:3;
 line-height: 1.5;
 cursor: pointer;
 
-font-family: 'NanumSquareLight'
+font-family: 'GcbRegular';
 display: flex;
 flex-direction: column;
 justify-content: space-between;
@@ -49,6 +49,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 font-size: calc(1.5em + 0.5vw);
+font-family: 'GcbBold', sans-serif;
 
 ${Main}:hover &{
     &>*{
@@ -65,6 +66,7 @@ const Description = styled.div`
 color: ${props => props.theme.text};
 font-size: calc(0.6em + 0.5vw);
 padding: 1rem 0;
+font-family: 'GcbRegular';
 
 
 ${Main}:hover &{
