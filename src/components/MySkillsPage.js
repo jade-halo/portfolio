@@ -155,7 +155,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>Tools</strong>
 <ul>
-Prompt Engineering, Generative AI, Photoshop & Illustrator, etc.
+Prompting, Generative AI, Photoshop & Illustrator and more.
 </ul>
 </Description>
 
