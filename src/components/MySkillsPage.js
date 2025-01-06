@@ -120,7 +120,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>I AM</strong>
 <ul>
-       #내꺼라는_주인의식 #하고보는_도전정신 #번뜩이는_아이디어 #데이터와_인사이트
+       #사명감_브랜드는 내 얼굴이다 #진취적_나아가야 나아진다 #창조력_생각말고 사고하자 #감지력_숫자에서 느끼자 
 </ul>
 </Description>
 
