@@ -104,23 +104,29 @@ const MySkillsPage = () => {
 <strong>I DO</strong>
 <ul>
     <li>
-        브랜드 운영관리 및 전략수립
+        브랜드 커뮤니케이션
     </li>
     <li>
-        ATL & BTL 브랜드 캠페인 운영
+        ATL & BTL 캠페인 운영
     </li>
     <li>
-        프로덕트 기획 및 개발
+        프로덕트 기획 및 관리
     </li>
     <li>
-        소셜미디어 운영, 제휴 마케팅
+        제휴 및 협업 마케팅
+    </li>
+    <li>
+        소셜미디어 운영 
     </li>
 </ul>
 </Description>
 <Description>
 <strong>I AM</strong>
 <ul>
-       #사명감_브랜드는 내 얼굴이다 #진취적_나아가야 나아진다 #창조성_생각말고 사고하자 #감지력_숫자에서 느끼자
+       #사명감_브랜드는 내 얼굴이다 #진취적_나아가야 나아진다
+</ul>
+<ul>
+       #창조성_생각말고 사고하자 #감지력_숫자에서 느끼자
 </ul>
 </Description>
 
