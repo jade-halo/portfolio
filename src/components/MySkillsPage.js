@@ -107,16 +107,16 @@ const MySkillsPage = () => {
         브랜드 커뮤니케이션
     </li>
     <li>
-        ATL & BTL 캠페인 운영
+        IMC 캠페인 운영
     </li>
     <li>
         프로덕트 기획 및 관리
     </li>
     <li>
-        제휴 및 협업 마케팅
+        제휴 및 협업 프로모션
     </li>
     <li>
-        소셜미디어 운영 
+        소셜미디어 마케팅
     </li>
 </ul>
 </Description>
