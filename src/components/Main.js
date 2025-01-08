@@ -143,7 +143,7 @@ const Main = () => {
             <Center click={click}>
                 <YinYang onClick={() => handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
                 <span onClick={() => handleClick()} style={{ cursor: 'pointer' }}>
-                    <h1>Click</h1> <br/> "지성과 즐거움의 조화가 창의력을 피어나게한다" - 알베르트 아인슈타인
+                    <h1>Click</h1> <br/> "지성과 즐거움의 조화가 창의력을 피어나게 한다" - 알베르트 아인슈타인
                 </span>
             </Center>
 
