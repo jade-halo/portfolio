@@ -98,10 +98,11 @@ const MySkillsPage = () => {
     <Design width={40} height={50} /> Brand Marketer
 </Title>
 <Description>
-<br/>브랜딩의 시작은 '사람들의 머릿속에서 기억될 이름'과 '왜 존재해야 하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 전략, 제품, 광고 등 다양한 마케팅을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 해당 카테고리의 Top of Mind로 만드는 것이 브랜딩이라고 생각합니다. <br/> 이러한 생각을 가지고 저는 다음과 같은 업무를 수행할 수 있습니다.
+<br/>브랜딩의 시작은 '사람들의 머릿속에서 기억될 이름'과 '왜 존재해야 하는가'를 정의하는 것이라고 생각합니다. <br/> 그 다음 전략, 제품, 광고 등 다양한 마케팅을 바탕으로 브랜드를 관리하고 키워나가는 과정을 통해 카테고리의 Top of Mind로 만드는 것이 브랜딩이라고 생각합니다. <br/> 좋은 브랜드란 사람들의 머릿속에 일관된 이미지로 오래 기억되며 기업의 영리적인 목적 달성에 기여하는 것 입니다.
 </Description>
 <Description>
-<strong>I DO</strong>
+<strong>성과를 낼 수 있는 업무</strong>
+<p>
 <ul>
     <li>
         브랜드 커뮤니케이션
@@ -119,9 +120,10 @@ const MySkillsPage = () => {
         소셜미디어 마케팅
     </li>
 </ul>
+</p>
 </Description>
 <Description>
-<strong>I AM</strong>
+<strong>일에 몰입하는 방식</strong>
 <ul>
        #사명감_브랜드는 내 얼굴이다 #진취적_나아가야 나아진다
 </ul>
@@ -154,6 +156,9 @@ const MySkillsPage = () => {
     <li>
         생성형AI 컨텐츠 제작
     </li>
+    <li>
+        홈페이지 제작
+    </li>
 
 </ul>
 </p>
@@ -161,7 +166,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>Tools</strong>
 <ul>
-Prompting, Generative AI, Photoshop & Illustrator and more.
+#ChatGPT #Cursor #Runway #Notion #Figma #Photoshop
 </ul>
 </Description>
 
