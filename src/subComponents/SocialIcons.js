@@ -63,7 +63,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://featpaper.com/l/JCZPBk"}
+          href={"https://featpaper.com/l/wGbgtq"}
         >
           <Link
             width={25}
