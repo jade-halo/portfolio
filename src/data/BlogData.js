@@ -7,7 +7,7 @@ export const Blogs = [
         tags:["해커톤","프롬프팅","뤼튼","프롬프톤"],
         date:"2023년 5월",
         imgSrc:"https://static.onoffmix.com/afv2/thumbnail/2023/05/19/27b8173ea518b1d9ce69c6519b7061eb.png",
-        link:"https://sm4s5ak3k8iie6iw.vercel.app/"
+        link:"https://featpaper.com/l/wr2FtGQG"
     },
     {
         id:2,
