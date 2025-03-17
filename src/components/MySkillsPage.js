@@ -28,7 +28,7 @@ color: ${props => props.theme.text};
 background-color: ${props => props.theme.body};
 padding: 2rem;
 width: 30vw;
-height: 75vh;
+height: 85vh;
 z-index:3;
 line-height: 1.5;
 cursor: pointer;
@@ -95,7 +95,7 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={60} /> Brand Marketer
+    <Design width={40} height={50} /> Brand Marketer
 </Title>
 <Description>
 <br/>브랜딩의 시작은 '사람들의 머릿속에서 기억될 이름'과 '왜 존재해야 하는가'를 정의하는 것이라고 생각합니다. <br/> 그리고 브랜드 이미지가 사람들의 머릿속에서 일관되게 기억되도록 제품, 광고, PR 등 다양한 마케팅을 하죠. <br/> 이렇게 브랜드를 관리하고 키워나가서 Top of Mind가 되는 것이 브랜딩의 궁극적인 목표입니다. 
