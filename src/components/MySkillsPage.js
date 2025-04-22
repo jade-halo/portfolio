@@ -105,19 +105,25 @@ const MySkillsPage = () => {
 <p>
 <ul>
     <li>
-        브랜드 전략수립 & 아이덴티티 관리
+    브랜드 스토리를 기반으로 고객과 시장 중심의 브랜드 관리 및 전략 수립
     </li>
     <li>
-        ATL & BTL 마케팅 프로젝트 운영
+    브랜드와 연관된 모든 이해관계자들을 한 방향으로 이끄는 커뮤니케이션
     </li>
     <li>
-        신제품 기획 및 포트폴리오 관리
+    IMC 차원의 ATL&BTL 브랜드 캠페인 Plan(기획)-Do(실행)-See(점검) 진행
     </li>
     <li>
-        이종업종 협업 및 프로모션 기획
+    데이터에 기반한 NPD 프로세스를 통한 신제품 개발, 런칭 및 사후관리
     </li>
     <li>
-        온드 미디어 운영(IG & Homepage)
+    BOM부터 SKU까지의 제품 포트폴리오 관리와 문제발생시 이슈 해결
+    </li>
+    <li>
+    Win-Win 전략기반의 이종업종간의 콜라보레이션 제안부터 기획 및 실행
+    </li>
+    <li>
+    ROI 분석 관점의 효율적인 온오프라인 프로모션 및 디지털 마케팅 실행
     </li>
 </ul>
 </p>
@@ -148,19 +154,19 @@ const MySkillsPage = () => {
 <p>
 <ul>
     <li>
-        wrtn 프롬프톤 참가
+        국내 최초 프롬프트 엔지니어링 경진대회 wrtn 참가
     </li>
     <li>
-        ChatGPT 사내강사
+        전임직원 대상으로 ChatGPT 교육 사내강사 활동
     </li>
     <li>
-        사내 AI공모전 입상
+        사내 AI공모전 입상(이미지 제작, 서비스 기획)
     </li>
     <li>
-        생성형AI 컨텐츠 제작
+        생성형 AI를 활용한 브랜드 필름 영상 제작
     </li>
     <li>
-        홈페이지 제작
+        AI tool을 활용한 웹사이트 개발 및 배포 
     </li>
 
 </ul>
@@ -169,7 +175,7 @@ const MySkillsPage = () => {
 <Description>
 <strong>Tools</strong>
 <ul>
-#ChatGPT #Cursor #Runway #Notion #Figma #Photoshop
+#ChatGPT #Photoshop #Illustrator #Runway #Notion #Figma 
 </ul>
 </Description>
 
