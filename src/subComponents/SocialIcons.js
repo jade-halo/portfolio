@@ -63,7 +63,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://featpaper.com/l/VXBfFXXl"}
+          href={""}
         >
           <Link
             width={25}
@@ -71,7 +71,7 @@ const SocialIcons = (props) => {
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
           />
         </a>
-      </motion.div>
+      </motion.div> 
 
       <Line
         color={props.theme}
