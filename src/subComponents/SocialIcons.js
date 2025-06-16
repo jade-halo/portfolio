@@ -71,7 +71,7 @@ const SocialIcons = (props) => {
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
           />
         </a>
-      </motion.div> 
+      </motion.div>
 
       <Line
         color={props.theme}
